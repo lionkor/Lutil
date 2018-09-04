@@ -1,5 +1,5 @@
 ﻿/*
- * Author: @Lion_Kor
+ * Copyright © 2018 Lion Kortlepel
  */
 
 using Lutil.Vectors;

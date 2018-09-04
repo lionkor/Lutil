@@ -1,6 +1,5 @@
 ﻿/*
- * Author: @Lion_Kor
- * Version: 1.1.0.1
+ * Copyright © 2018 Lion Kortlepel
  */
 
 using System;
