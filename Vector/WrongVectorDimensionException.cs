@@ -10,6 +10,7 @@ namespace Lutil.Vectors
     /// <summary>
     /// Description of Exception.
     /// </summary>
+    [Serializable]
     public class WrongVectorDimensionException : Exception, ISerializable
     {
         /// <summary>

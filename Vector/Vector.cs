@@ -120,7 +120,7 @@ namespace Lutil.Vectors
                 }
                 else
                 {
-                    throw new UndefinedVectorComponentException (uvces);
+                    return 0f;
                 }
             }
             set

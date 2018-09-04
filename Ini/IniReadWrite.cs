@@ -87,7 +87,7 @@ namespace Lutil.Ini
         /// </summary>
         public string[] GetSections ()
         {
-            return rawData.Keys.ToArray<string> ();
+            return rawData.Keys.ToArray ();
         }
         /// <summary>
         /// Sets a value to a key in a section.

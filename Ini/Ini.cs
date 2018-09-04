@@ -89,7 +89,7 @@ namespace Lutil.Ini
             string activeSection = null;
             if (!File.Exists (Path))
             {
-                File.Create (Path);
+                File.WriteAllText (Path, "");
             }
             foreach (var item in File.ReadLines (Path))
             {
